@@ -1,5 +1,7 @@
 # triangleapp
 
+[![Deployment](https://github.com/janisringli/triangleapp/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/janisringli/triangleapp/actions/workflows/deploy.yml)
+
 ## Project setup
 ```
 npm install
